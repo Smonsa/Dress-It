@@ -1,0 +1,18 @@
+html{
+	scroll-behavior: smooth;
+}
+
+body {
+	font: 'Raleway', sans-serif;
+    color: rgba(0,0,0,.7);
+	background:linear-gradient(to right, rgb(213, 176, 183), rgb(166, 142, 217)) 
+}
+
+hr{
+	margin-bottom: 69px;
+	margin-top: 69px;
+}
+
+.par{
+	margin:  10px;
+}
